@@ -1,0 +1,4 @@
+# Crear el archivo indicador en las carpetas vacías
+touch notebooks/.gitkeep
+touch docs/.gitkeep
+touch data/.gitkeep
