@@ -1,0 +1,10 @@
+# Entornos y datos pesados
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.geotiff
+*.tif
+*.zip
+
+# Exclusión de la carpeta de datos si pesa más de 50MB
+data/*.tif
